@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             Console.WriteLine("PANKs NOT DEAD");
             Console.ReadKey();
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
+
